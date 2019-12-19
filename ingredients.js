@@ -3,7 +3,7 @@ const ingredients = ["eggs", "milk", "flour", "sugar", "baking soda", "baking po
 // Write a while loop that prints out the contents of ingredients:
 let x = 0;
 while (x < ingredients.length) {
-  console.log(packingList[x]);
+  console.log(ingredients[x]);
   x++;
 };
 // Write a for loop that prints out the contents of ingredients:
